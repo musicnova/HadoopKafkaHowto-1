@@ -1,0 +1,2 @@
+# HadoopKafkaHowto
+Hadoop Kafka Howto
